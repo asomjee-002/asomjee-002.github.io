@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is **Arsh Somjee** and I am a student at [Cal State Fullerton](http://www.fullerton.edu/). My major is **Computer Science**.
+This is my home page! My name is **Arsh Somjee** and I am a student at [Cal State Fullerton](http://www.fullerton.edu/). My major is **Mechanical Engineering**.
 
 ## Computer Science Projects
 
